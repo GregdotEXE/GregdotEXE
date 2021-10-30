@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @GregdotEXE
-- 👀 I’m just a guy
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on files
-- 📫 but not looking to be percieved
+- 
+- 
+- I don't actively develop any of the things I've made commits to. Contact other people.
 
 <!---
 GregdotEXE/GregdotEXE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
